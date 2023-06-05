@@ -1,0 +1,14 @@
+{
+  "id": "liipholaspirit",
+  "name": "holaspirit.com",
+  "version": "0.0.1",
+  "description": "holaspirit",
+  "main": "index.js",
+  "author": "Laurent Constantin",
+  "license": "CC-BY-SA-4.0",
+  "repository": "https://github.com/ragusa87/franz-holaspirit",
+  "config": {
+    "serviceURL": "https://app.holaspirit.com/",
+    "hasNotificationSound": true
+  }
+}
